@@ -26,7 +26,7 @@
 
 ### Express server NodeJs
 ~~~
-    npm install @types/babel express
+    npm install @types/express express
 ~~~
 
 ### Create Start script
